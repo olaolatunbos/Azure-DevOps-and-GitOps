@@ -2,6 +2,9 @@
 
 set -x
 
+git config user.name "Azure DevOps"
+git config user.email "build-agent@azuredevops.com"
+
 # Set the repository URL
 REPO_URL="https://3LV2cc7QaLxpbIsSbMtajC0HOxXmqfGaMN2o2oFLBG7u7iNAmHdLJQQJ99BEACAAAAAAAAAAAAASAZDO1Spd@dev.azure.com/olaolat/voting-application/_git/voting-application"
 
