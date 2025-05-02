@@ -2,8 +2,7 @@
 
 set -x
 
-git config user.name "Azure DevOps"
-git config user.email "build-agent@azuredevops.com"
+
 
 # Set the repository URL
 REPO_URL="https://3LV2cc7QaLxpbIsSbMtajC0HOxXmqfGaMN2o2oFLBG7u7iNAmHdLJQQJ99BEACAAAAAAAAAAAAASAZDO1Spd@dev.azure.com/olaolat/voting-application/_git/voting-application"
@@ -11,6 +10,8 @@ REPO_URL="https://3LV2cc7QaLxpbIsSbMtajC0HOxXmqfGaMN2o2oFLBG7u7iNAmHdLJQQJ99BEAC
 # Clone the git repository into the /tmp directory
 git clone "$REPO_URL" /tmp/temp_repo
 
+git config user.name "Azure DevOps"
+git config user.email "build-agent@azuredevops.com"
 # Navigate into the cloned repository directory
 cd /tmp/temp_repo
 
