@@ -9,11 +9,11 @@ REPO_URL="https://3LV2cc7QaLxpbIsSbMtajC0HOxXmqfGaMN2o2oFLBG7u7iNAmHdLJQQJ99BEAC
 
 # Clone the git repository into the /tmp directory
 git clone "$REPO_URL" /tmp/temp_repo
+# Navigate into the cloned repository directory
+cd /tmp/temp_repo
 
 git config user.name "Azure DevOps"
 git config user.email "build-agent@azuredevops.com"
-# Navigate into the cloned repository directory
-cd /tmp/temp_repo
 
 # Make changes to the Kubernetes manifest file(s)
 # For example, let's say you want to change the image tag in a deployment.yaml file
