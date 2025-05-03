@@ -1,5 +1,8 @@
 # Example Voting App
 
+[Untitled Diagram.drawio-4.pdf](https://github.com/user-attachments/files/20025306/Untitled.Diagram.drawio-4.pdf)
+
+
 A simple distributed application running across multiple Docker containers.
 
 ## Getting started
