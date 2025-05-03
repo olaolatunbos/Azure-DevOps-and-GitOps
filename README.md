@@ -1,6 +1,7 @@
 # Example Voting App
 
-![Untitled Diagram drawio](https://github.com/user-attachments/assets/a21c8d56-2950-42a5-b60d-be89616fc2de)
+
+![Untitled Diagram drawio-2](https://github.com/user-attachments/assets/862323c5-b2d0-4760-a023-f1d5b5cb806f)
 
 
 
