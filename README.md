@@ -1,6 +1,7 @@
 # Example Voting App
 
-[Untitled Diagram.drawio-4.pdf](https://github.com/user-attachments/files/20025306/Untitled.Diagram.drawio-4.pdf)
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/a21c8d56-2950-42a5-b60d-be89616fc2de)
+
 
 
 A simple distributed application running across multiple Docker containers.
