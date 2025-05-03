@@ -1,7 +1,8 @@
 # Example Voting App
 
+<img width="770" alt="Screenshot 2025-05-04 at 00 12 47" src="https://github.com/user-attachments/assets/cd6c0ac6-0491-430d-8a1d-673896c308c7" />
 
-![Untitled Diagram drawio-2](https://github.com/user-attachments/assets/862323c5-b2d0-4760-a023-f1d5b5cb806f)
+
 
 
 
